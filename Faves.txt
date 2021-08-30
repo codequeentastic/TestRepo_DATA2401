@@ -2,8 +2,7 @@ Rain at night in the city
 Chiles
 The mountains
 Culture
-Garden flower smells
-Patchouli
+
 Soccer
 Jazz
 
@@ -13,3 +12,5 @@ Math
 Sushi
 
 #going now to pull step
+
+**Took out the smells**
